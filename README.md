@@ -14,10 +14,10 @@ Estou em um estudo CLEAR CODE no desenvolvimento de um RPG inspirado em Pokémon
 
 ```bash
     # Clone o Repositório:
-    $ git clone https://github.com/SilvaneiMartins/game-python-shooter
+    $ git clone https://github.com/SilvaneiMartins/game-cacadores-monstros
 
     # Entre no Diretório:
-    cd game-python-shooter
+    cd game-cacadores-monstros
 
     # Instale o python, acesso o site e instala a versão mais recente:
     $ https://www.python.org
@@ -36,7 +36,7 @@ Estou em um estudo CLEAR CODE no desenvolvimento de um RPG inspirado em Pokémon
 
 ## Licença
 
-Este projeto é licenciado sob [CC0 1.0 Universal]. Consulte o arquivo [LICENSE](https://github.com/SilvaneiMartins/sam-fitness/blob/master/LICENSE) para obter detalhes.
+Este projeto é licenciado sob [CC0 1.0 Universal]. Consulte o arquivo [LICENSE](https://github.com/SilvaneiMartins/game-cacadores-monstros/blob/master/LICENSE) para obter detalhes.
 
 ## Curso Mobile YouTube
 
